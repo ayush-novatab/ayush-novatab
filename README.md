@@ -8,24 +8,11 @@
 
 
 ## My github stats
-|![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush2966&show_icons=true&bg_color=ffff) | <a href="https://github.com/Ayush2966/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2966&layout=compact&theme=buefy&hide_border=true" /></a> |
+|![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-novatab&show_icons=true&bg_color=ffff) | <a href="https://github.com/ayush-novatab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-novatab&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 <br>
-
-
-
-
-
-
-<!---
-Ayush2966/Ayush2966 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
-
-
-
 <img src="footer.png"/>
 <div align="center">
 
